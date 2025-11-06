@@ -20,7 +20,7 @@ So Kops makes this entire process automatic.
 
 
 
-
+********************************************************************************************************************
 
 ✅ KOPS-KUBERNETES CLUSTER SETUP.
 
@@ -208,3 +208,5 @@ kops create cluster	Create cluster configuration
 kops update cluster	Actually build cluster in AWS
 kops validate cluster	Check cluster health
 kops delete cluster	Destroy cluster
+
+*****************************************************************************************************************
