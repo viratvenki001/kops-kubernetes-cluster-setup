@@ -1,7 +1,3 @@
-# kops-kubernetes-cluster-setup
-# USING THE KOPS METHOD CREATE A KUBERNETES CLUSTER 
-
-![Sample Image](https://drive.google.com/uc?export=view&id=174hu4SZa1pCvQFPm3O0l3TRctWta-oWX)
 
  
 
